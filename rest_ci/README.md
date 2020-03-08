@@ -4,7 +4,7 @@ Cara penggunaan
 
 1. Hubungkan dangan localhost, gunakan webserver seperti xampp, wampp, atau webserver lainnya
 
-2. Download dan install CodeIgniter dan library REST server link = https://github.com/ardisaurus/ci-restserver . Lalu ekstrak dan masukkan ke dalah htdocs.
+2. Download dan install CodeIgniter dan library REST server link = https://github.com/ardisaurus/ci-restserver . Lalu ekstrak dan masukkan ke dalam htdocs.
 
 3. Cek apakah installasi berhasil menggunakan link ini = http://127.0.0.1/nama_folder/index.php/rest_server 
 
